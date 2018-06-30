@@ -1,0 +1,32 @@
+# 1.vue-spa
+vue-spa/.DS_Store
+vue-spa/node_modules/
+vue-spa/dist/
+vue-spa/npm-debug.log*
+vue-spa/yarn-debug.log*
+vue-spa/yarn-error.log*
+
+# Editor directories and files
+vue-spa/.idea
+vue-spa/.vscode
+vue-spa/*.suo
+vue-spa/*.ntvs*
+vue-spa/*.njsproj
+vue-spa/*.sln
+
+
+# 2.vue-mpa
+
+vue-mpa/.DS_Store
+vue-mpa/node_modules/
+vue-mpa/npm-debug.log*
+vue-mpa/yarn-debug.log*
+vue-mpa/yarn-error.log*
+
+# Editor directories and files
+vue-mpa/.idea
+vue-mpa/.vscode
+vue-mpa/*.suo
+vue-mpa/*.ntvs*
+vue-mpa/*.njsproj
+vue-mpa/*.sln
