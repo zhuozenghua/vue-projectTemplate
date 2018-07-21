@@ -1,14 +1,15 @@
 <template>
     <div id="app">
-       <cell></cell>
+    <img src="../../assets/logo.png">
+       <HelloJs></HelloJs>
     </div>
 </template>
 
 <script>
-import cell from 'components/cell.vue'
+import HelloJs from '@/components/HelloJs.vue'
 export default {
   name: 'app',
-  components: { cell }
+  components: { HelloJs }
 }
 </script>
 

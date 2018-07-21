@@ -1,16 +1,18 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
+    <ul>
+      <li><a href="index.html" target="_blank">index page</a></li>
+    </ul>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'cell',
+  name: 'hellojs',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue.js MPA'
     }
   }
 }

@@ -1,5 +1,5 @@
 import Vue from 'Vue'
-import cell from '@/components/cell.vue'
+import cell from './cell.vue'
 
 /* eslint-disable no-new */
 new Vue({
